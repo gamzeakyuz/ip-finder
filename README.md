@@ -1,3 +1,3 @@
 # ip-finder
 
-Bu uygulama, cihazın yerel IP (Local IP) adresini almayı sağlar
+This application allows you to get the local IP (Local IP) address of the device
